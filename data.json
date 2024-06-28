@@ -1,0 +1,26 @@
+[
+	{
+		"nome": "Nome 1",
+		"order": "1",
+		"pontos": "40",
+		"mediaOdds": "21"
+	},
+	{
+		"nome": "Nome 2",
+		"order": "2",
+		"pontos": "40",
+		"mediaOdds": "21"
+	},
+	{
+		"nome": "Nome 3",
+		"order": "3",
+		"pontos": "40",
+		"mediaOdds": "21"
+	},
+	{
+		"nome": "Nome 4",
+		"order": "4",
+		"pontos": "40",
+		"mediaOdds": "21"
+	}
+]
