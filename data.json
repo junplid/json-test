@@ -1,26 +1,27 @@
 [
-	{
-		"nome": "Nome 1",
-		"order": "1",
-		"pontos": "40",
-		"mediaOdds": "55"
-	},
-	{
-		"nome": "Nome 2",
-		"order": "2",
-		"pontos": "37",
-		"mediaOdds": "41"
-	},
-	{
-		"nome": "Nome 3",
-		"order": "3",
-		"pontos": "35",
-		"mediaOdds": "38"
-	},
-	{
-		"nome": "Nome 4",
-		"order": "4",
-		"pontos": "21",
-		"mediaOdds": "34"
-	}
+  {
+    "nome": "Nome 1",
+    "pontos": "10",
+    "mediaOdds": "10"
+  },
+  {
+    "nome": "Nome 2",
+    "pontos": "20",
+    "mediaOdds": "20"
+  },
+  {
+    "nome": "Nome 3",
+    "pontos": "30",
+    "mediaOdds": "30"
+  },
+  {
+    "nome": "Nome 4",
+    "pontos": "40",
+    "mediaOdds": "40"
+  },
+  {
+    "nome": "Nome 5",
+    "pontos": "50",
+    "mediaOdds": "50"
+  }
 ]
